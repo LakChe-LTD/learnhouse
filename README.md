@@ -1,3 +1,5 @@
+> **LAKCHE Academy fork.** This is LakChe LLC's fork of LearnHouse, the platform behind LAKCHE Academy. Read [LAKCHE.md](LAKCHE.md) first. · **Fork de LAKCHE Academy.** Fork de LearnHouse par LakChe LLC, la plateforme de LAKCHE Academy. Lisez d'abord [LAKCHE.fr.md](LAKCHE.fr.md).
+
 <p align="center">
   <a href="https://learnhouse.app">
     <img src=".github/images/learnhouse-github.png" alt="LearnHouse" width="600" />
